@@ -1,1 +1,1 @@
-# Project1
+# Customer Chur Prediction Using ML
